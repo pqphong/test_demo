@@ -51,12 +51,6 @@
 /* Version    Last modified   Description                                                                             */
 /*====================================================================================================================*/
 /* 1.0.0:     29/01/2019 :    Initial Version                                                                         */
-/* 1.0.1:     29/01/2019 :    Fix all bug from E2x FCC2 branch #87842                                                 */
-/* 1.1.0:     22/06/2020 :    No change code, only increase version.                                                  */
-/* 2.2.0:     31/12/2024 :    Update SW Version for Ver22.02.00/Ver22.02.00.D Final Release                           */
-/* 2.2.1:     31/12/2024 :    Update SW Version for Ver22.00.01 U2Ax Release                                          */
-/* 2.3.0:     31/01/2025 :    Update SW Version for Ver22.00.06 U2Cx Release                                          */
-/*                                                                                                                    */
 /*====================================================================================================================*/
 // Implementation: GENERIC_TUD_FST_001
 
