@@ -51,19 +51,6 @@
 /* Version    Last modified   Description                                                                             */
 /*====================================================================================================================*/
 /* 1.0.0:     20/09/2017   : Initial Version                                                                          */
-/* 1.0.1:     29/01/2019   : Fix all bug from E2x FCC2 branch #87842                                                  */
-/* 1.0.2:     07/02/2020   : Fix gentool unit test issue #249810                                                      */
-/* 1.1.0:     22/06/2020   : Release                                                                                  */
-/* 1.2.0:     26/08/2020   : Release                                                                                  */
-/* 1.2.1:     07/03/2023   : Update AssemblyFileVerison to 1.4.0                                                      */
-/* 1.2.2:     27/04/2023   : Update AssemblyFileVerison to 2.0.0                                                      */
-/* 1.2.3:     22/09/2023   : Update AssemblyFileVerison to 2.0.1                                                      */
-/* 1.2.4:     11/04/2024   : Update AssemblyFileVersion to 2.0.3                                                      */
-/* 1.2.5:     21/05/2024   : Update AssemblyFileVersion to 2.1.1                                                      */
-/* 1.2.6:     31/10/2024   : Update AssemblyFileVersion to 2.1.2                                                      */
-/* 2.2.0:     31/12/2024   : Update AssemblyFileVersion for Ver22.02.00/Ver22.02.00.D Final Release                   */
-/* 2.2.1:     31/12/2024   : Update SW Version for Ver22.00.01 U2Ax Release                                           */
-/* 2.3.0:     31/01/2025   : Update SW Version for Ver22.00.06 U2Cx Release                                           */
 /*====================================================================================================================*/
 
 using System.Reflection;
