@@ -51,26 +51,6 @@
 /* Version    Last modified   Description                                                                             */
 /*====================================================================================================================*/
 /* 1.0.0:     29/01/2019 :    Initial Version                                                                         */
-/* 1.0.1:     29/01/2019 :    Fix all bug from E2x FCC2 branch #87842                                                 */
-/*            21/02/2019 :    Handle ILC findings to improve GenTool #88604                                           */
-/*            01/03/2019 :    Fix conding rule                                                                        */
-/*            04/03/2019 :    Added constants link time as #89553 #note34                                             */
-/* 1.0.2:     31/12/2019 :    Support U2A16/8 and E2HUH devices and AR431                                             */
-/* 1.1.0:     22/06/2020 :    No change code, only increase version.                                                  */
-/* 1.1.1:     04/05/2021 :    Add new STUBS string constant                                                           */
-/* 1.1.2:     05/05/2021 :    Remove specific devices name constant                                                   */
-/* 1.1.3:     10/07/2021 :    Update MAX_LINE_LENGTH, add new constant SpaceCharacter, ListSeparator                  */
-/* 1.2.2:     30/08/2021 :    Add new constance InvalidIndex                                                          */
-/*            08/11/2021 :    Add new constance U2BX_VARIANT                                                          */
-/* 1.2.3:     13/09/2022 :    Add new constant U2CX_VARIANT, AR_VERSION_21_11                                         */
-/* 1.2.4:     30/03/2023 :    Add new constant U2B10_DEVICE                                                           */
-/* 1.2.5:     21/04/2023 :    Remove redudant constant U2B10_DEVICE                                                   */
-/* 1.2.6:     21/09/2023 :    Replace AR21-11 by AR_VERSION_22_11 in GENERIC_TUD_CLS_039_189                          */
-/* 1.2.7:     02/03/2024 :    Add GENERIC_TUD_CLS_039_190 - GENERIC_TUD_CLS_039_202                                   */
-/*            20/07/2024 :    Change U2BXE_VARIANT = "U2BxE" to U2BXE_VARIANT = "U2Bx-E"                              */
-/* 1.2.8:     19/09/2024 :    Add some macros to support PreCompile for Mem, Fee                                      */
-/* 2.2.0:     31/12/2024 :    Update SW Version for Ver22.02.00/Ver22.02.00.D Final Release                           */
-/* 2.2.1:     31/12/2024 :    Update SW Version for Ver22.00.01 U2Ax Release                                          */
 /* 2.3.0:     31/01/2025 :    Update SW Version for Ver22.00.06 U2Cx Release                                          */
 /*====================================================================================================================*/
 // Implementation: GENERIC_TUD_FST_001
