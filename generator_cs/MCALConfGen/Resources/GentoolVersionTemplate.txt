@@ -1,3 +1,0 @@
-/*                                                                                                                    */
-/* TOOL VERSION:  $$Version:99:L$$ */
-/*                                                                                                                    */

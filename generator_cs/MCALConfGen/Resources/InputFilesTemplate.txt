@@ -1,4 +1,0 @@
-/*
- * INPUT FILE:    $$Files$$
- * GENERATED ON:  $$Time$$
- */
